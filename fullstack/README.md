@@ -12,8 +12,8 @@ Inclui recursos de **busca**, **tags coloridas**, **arrastar e soltar (drag & dr
 
 O diagrama abaixo mostra o fluxo principal do app, desde o carregamento das tarefas até as ações do usuário:
 
-![Fluxo do App](./907576c5-51b5-4c61-b526-3f4ce75afc3e.png)
-![Fluxo do App 2](./e16fb2ee-9a83-475a-a710-9b06a3acfdb0.png)
+![Fluxo do App](https://github.com/LazuliOO2/desafio-fullstack-veritas/blob/main/fullstack/docs/user-flow.png)
+
 
 ---
 
