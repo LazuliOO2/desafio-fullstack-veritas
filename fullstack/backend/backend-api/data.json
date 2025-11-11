@@ -1,0 +1,49 @@
+{
+  "next_id": 6,
+  "tasks": [
+    {
+      "id": 1,
+      "titulo": "Estuda go",
+      "conteudo": "Tenta finalizar até o dia 22",
+      "status": "todo",
+      "tag": {
+        "label": "alto",
+        "color": "#e74c3c",
+        "text": "#fff"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Finalizar curso",
+      "conteudo": "22",
+      "status": "doing",
+      "tag": {
+        "label": "Medio",
+        "color": "#8e44ad",
+        "text": "#fff"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Finalizei back end",
+      "conteudo": "",
+      "status": "done",
+      "tag": {
+        "label": "Tag",
+        "color": "#e0e0e0",
+        "text": "#111"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Teste",
+      "conteudo": "",
+      "status": "todo",
+      "tag": {
+        "label": "Tag",
+        "color": "#e0e0e0",
+        "text": "#111"
+      }
+    }
+  ]
+}
